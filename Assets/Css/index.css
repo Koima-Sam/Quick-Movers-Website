@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+#nav-sect{
+    background-image:url("../Images/moving\ 1.png");
+    background-size: cover; 
+    background-position: center center;
+    height:90vh
+}
+.navigation > .nav-links{ 
+    margin: 20px 0px 20px 0px;
+    padding-left: 500px;
+}
+.navigation > .nav-links > ul > li { 
+    display: inline-block;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 20px;
+        
+}
+.navigation > .nav-links > ul > li > a{ 
+    color: white;
+    font-size: 1em;
+    text-decoration: none;
+}
+#login{
+    background-color:  #FAFF00;
+    color: black;
+    padding: 5px;
+}
+#login2{
+    background-color: black;
+    color: #FAFF00;
+    padding: 5px;
+}
+
+
+.navigation > .header > h1{
+    padding-top: 30px;
+    color: #FAFF00;
+    font-size: 35px;
+    font-weight: 500;
+    padding-left: 80px;
+    align-items: center;
+}
+.navigation > .header > p{
+    color: #FAFF00;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.699);
+    font-family: 'Poppins';
+    padding-left: 80px;
+    align-items: center;
+}
