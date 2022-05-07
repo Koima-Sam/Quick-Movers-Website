@@ -149,3 +149,40 @@ table, th, td {
 i{
     font-size: 2px;
 }
+.footer{
+    margin-top: 80px;
+    background-color: black;
+
+}
+.footer> .footer-header > h1{
+    color: white;
+    padding-left: 180px;
+    font-size: 25px;
+    padding-top: 50px;
+    font-weight: 400;
+}
+span{
+    color: #FFAC12;
+}
+.footer-links{
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-links > .social {
+    margin-top: 100px;
+}
+.footer-links > .social > i{
+    color: white;
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.footer-links > .links {
+    color: white;
+    text-align: start;
+}
+.footer-links > .links > p{
+    font-size: 15px;
+
+}
