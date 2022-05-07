@@ -116,9 +116,36 @@ hr{
     display: flex;
     margin-left: 100px;
 }
+.movers-images > .mover1{
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.1), 0 4px 12px 0 rgba(0,0,0,0.5);
+    border: none;
+}
 .movers-images > .mover1 > img{
     height: 200px;
     width: 250px;
-    padding-top: 10px;
-    padding-left: 40px;
+    
+}
+.movers-images > .mover1 > h3{
+    padding-left: 20px;
+    font-weight: 530;
+    font-size: 15px;
+}
+table{
+    width:100%;
+    margin-left: 0;
+}
+table, th, td {
+    font-weight: 200;
+    border: 1px solid rgba(0, 0, 0, 0.13);
+    border-collapse: collapse;
+    
+}
+i{
+    font-size: 2px;
 }
