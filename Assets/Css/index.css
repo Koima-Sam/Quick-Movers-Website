@@ -186,3 +186,86 @@ span{
     font-size: 15px;
 
 }
+.navigation2{
+    background-color: black;
+    margin-top: 0;
+}
+
+.navigation2 > .nav-links{ 
+    margin: 0px 0px 20px 0px;
+    padding-left: 500px;
+}
+.navigation2 > .nav-links > ul > li { 
+    display: inline-block;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 20px;
+        
+}
+.navigation2 > .nav-links > ul > li > a{ 
+    color: white;
+    font-size: 1em;
+    text-decoration: none;
+}
+#work{
+    background-color: #FFAC12;
+    color: black;
+    padding: 5px;
+    border-radius: 0px 10px 0px 0px;
+}
+#li{
+    color: white;
+    font-size: 30px;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+}
+.price > .movers-price{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.price > .movers-price >h1{
+    color: white;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+.price > .movers-price > p{
+    text-align: center;
+    color: white;
+    font-size: small;
+    margin-top: 0px;
+}
+.property-desc > .desc{
+    width: 54%;
+}
+.property-desc > .desc > .property{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.property-desc > .desc > .property > img{
+    height: 420px;
+    width: 580px;
+}
+.property-desc > .desc > .property > .prop-images > img{
+    height: 80px;
+}
+.property-desc > .desc > .prop-details{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: 300;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.1), 0 4px 12px 0 rgba(0,0,0,0.5);
+    border: none;
+    border-radius: 10px;
+
+}
+.property-desc > .desc > .prop-details > h3{
+    padding-top: 10px;
+    padding-left:10px ;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+property-desc > .desc > .prop-details > table{
+    align-items: center;
+    height: 10px;
+}
