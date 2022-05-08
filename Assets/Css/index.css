@@ -162,6 +162,7 @@ i{
 }
 span{
     color: #FFAC12;
+
 }
 .footer-links{
     padding-bottom: 50px;
@@ -268,7 +269,6 @@ span{
     font-weight: 500;
 }
 .property-desc > .desc > .prop-details > table{
-    align-items: center;
     height: 10px;
 }
 .property-desc > .desc > .prop-desc {
@@ -319,7 +319,7 @@ span{
     font-size: 15px;
     font-weight: 400;
 }
-i{
+.prop-txt2>div > p> i{
     color: #FFAC12;
 }
 input[type=text], textarea {
@@ -374,4 +374,17 @@ input[type=text], textarea {
     margin-left: 30px;
     margin-top: 50px;
     
+}
+#work2{
+    margin-top: 60px;
+    background-color: #FFAC12;
+    color: black;
+    padding: 5px;
+    border-radius: 0px 10px 0px 0px;
+    text-decoration: none;
+    margin-right: 50px;
+}
+.footer-header{
+    justify-content: space-between;
+    display: flex;
 }
