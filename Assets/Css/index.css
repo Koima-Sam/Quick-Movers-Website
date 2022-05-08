@@ -1,5 +1,4 @@
 body{
-    background-color: white;
     margin: 0;
     padding: 0;
 }
@@ -236,6 +235,9 @@ span{
     font-size: small;
     margin-top: 0px;
 }
+.property-desc{
+    display: flex;
+}
 .property-desc > .desc{
     width: 54%;
 }
@@ -265,7 +267,111 @@ span{
     margin-bottom: 15px;
     font-weight: 500;
 }
-property-desc > .desc > .prop-details > table{
+.property-desc > .desc > .prop-details > table{
     align-items: center;
     height: 10px;
+}
+.property-desc > .desc > .prop-desc {
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 20px;
+    box-shadow: 0 0 0 0 rgba(0,0,0,0.1), 0 1px 4px 0 rgba(0,0,0,0.5);
+    border: none;
+    border-radius: 10px 10px 0 0;
+    height: 20px;
+    margin-bottom: 0;
+    
+    
+}
+.property-desc > .desc > .prop-desc >   .desc1 >  h3{
+    font-weight: 550;
+
+}
+.property-desc > .desc > .prop-txt{
+    margin-left: 100px;
+    padding: 20px;
+    font-family: 'Actor';
+    font-weight: 400;
+    box-shadow: 2px 0 0 0 rgba(0,0,0,0.1), 0 2px 2px 0 rgba(0,0,0,0.5);
+    border: none;
+    border-radius: 0px 0px 10px 10px;
+    
+    
+}
+.property-desc > .desc > .prop-txt2{
+    background-color: white;
+    margin-left: 100px;
+    padding: 20px;
+    font-family: 'Actor';
+    box-shadow: 1px 0 0 0 rgba(0,0,0,0.1), 0 2px 3px 0 rgba(0,0,0,0.5);
+    border: 1px solid rgba(0, 0, 0, 0.041);
+    border-radius: 0px 0px 10px 10px;
+    justify-content: space-between;
+    display: flex;
+    
+    
+    
+}
+.property-desc > .desc > .prop-txt2 > div > h3{
+    font-weight: 500;
+} 
+.property-desc > .desc > .prop-txt2 > div > p{
+    font-size: 15px;
+    font-weight: 400;
+}
+i{
+    color: #FFAC12;
+}
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color:black;
+    color: white;
+    padding: 12px 40px 10px 40px;
+    border: none;
+    border-radius: 0 24px 0 0;
+    font-size: 18px;
+    width: 100%;
+
+
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  .logo > img{
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      background-color: #FFAC12;
+      color: #FFAC12;
+      margin-right: 10px;
+      
+  }
+ .logo{
+     display: flex;
+ }
+ .logo > p{
+    margin-top:5px;
+}
+.learn-form{
+    box-shadow: 2px 0 0 0 rgba(0,0,0,0.1), 0 2px 2px 0 rgba(0,0,0,0.5);
+    border: none;
+    height: 375px;
+    border-radius: 5%;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 50px;
+    
 }
