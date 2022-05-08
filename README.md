@@ -21,17 +21,20 @@
    ## Landing Page
    This will be the first page when you load the link
 
-   ![]()
+   ![](https://github.com/Koima-Sam/Quick-Movers-Website/blob/main/Assets/Images/home.png)
    
-   ## stories section
+   ## Top movers section
+   This section will be displayed at the landing  page
 
-  ![]()
-   ## Mentors section
-   
-   ![]()
+  ![](https://github.com/Koima-Sam/Quick-Movers-Website/blob/main/Assets/Images/movers.png)
+   ## Property Page 
+   When you click the movers link, it be like this
+
+   ![](https://github.com/Koima-Sam/Quick-Movers-Website/blob/main/Assets/Images/movers-home.png)
    ## Footer section
+   This is the footer of the landing page
    
-   !![]()
+   !![](https://github.com/Koima-Sam/Quick-Movers-Website/blob/main/Assets/Images/footer.png)
    
    
    ## Built with 
@@ -40,20 +43,5 @@
   <li>CSS</li>
  </ul>
  
- ##   To Do
- <ol>
-    <li>Inherit styles from other elements</li>
-    <li>Merge classes for elements with similars styles</li>
-    <li>Practice more on styling</li>
-  </ol>
-    
    ## Author
   <a  href="https://koima-sam.github.io/Quick-Movers-Website/index.html" style="text-decoration:none;">Sammy Kipkosgei</a>
-    
-
-   
-
-
-
-
-   
