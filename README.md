@@ -1,14 +1,9 @@
 # Quick Movers Website
-<table>
-  <tr>
-    <td>A simple website of movers company with<br>
+    A simple website of movers company with<br>
     two pages, home page and property page <br>
     I coded it with HTML and styled it with CSS.<br>
     This will be my second independent project at <br>
     moringa school.
-    </td>
-  </tr>
-  </table>
   
   ## Original Design 
   Here is the original design of the page: https://drive.google.com/drive/folders/1UjC_vx7PgJRio7sFGp-jZS5arXEpB8jt
