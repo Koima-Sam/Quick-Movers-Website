@@ -1,8 +1,6 @@
 # Quick Movers Website
-    A simple website of movers company with<br>
-    two pages, home page and property page <br>
-    I coded it with HTML and styled it with CSS.<br>
-    This will be my second independent project at <br>
+    A simple website of movers company with two pages, home page and property page 
+    I coded it with HTML and styled it with CSS. This will be my second independent project at 
     moringa school.
   
   ## Original Design 
