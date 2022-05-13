@@ -36,7 +36,7 @@
  </ul>
    
    
-   ## Technologies Used 
+   ## Requirements Used
    <ul>
   <li>Devices such as tablet , phones , laptops and desktop computers.</li>
   <li>Access to internet connection</li>
