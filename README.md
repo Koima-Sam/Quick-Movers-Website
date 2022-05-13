@@ -67,4 +67,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  
    ## Author
-  <a  href="https://koima-sam.github.io/Quick-Movers-Website/index.html" style="text-decoration:none;">Sammy Kipkosgei</a>
+  <a  href="https://twitter.com/KoimaSam" style="text-decoration:none;">Sammy Kipkosgei</a>
