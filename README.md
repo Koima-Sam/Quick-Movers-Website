@@ -29,14 +29,14 @@
    
    !![](https://github.com/Koima-Sam/Quick-Movers-Website/blob/main/Assets/Images/footer.png)
 
-   ## Requirements
+   ## Technologies Used
    <ul>
   <li>HTML</li>
   <li>CSS</li>
  </ul>
    
    
-   ## Requirements Used
+   ## Requirements
    <ul>
   <li>Devices such as tablet , phones , laptops and desktop computers.</li>
   <li>Access to internet connection</li>
